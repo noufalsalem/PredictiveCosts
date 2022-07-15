@@ -1,4 +1,5 @@
 # PredictiveCosts
-Predicts and analyzes monthly costs from previous data.
+Predicts and analyzes monthly costs from previous data 
 
-## Semi private (most files hidden)
+## Semi private
+Most files hidden
