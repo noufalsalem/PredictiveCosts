@@ -2,4 +2,4 @@
 Predicts and analyzes monthly costs from previous data 
 
 ## Semi private
-Most files hidden/in private repo, do not run - it won't work. 
+Most files hidden/in private repo, do not run -- it won't work. For view/inspection only. 
